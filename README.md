@@ -81,7 +81,7 @@ main ------------------------------> stable release
 ![Flask app running locally](images/flask-app-running-locally.jpg)
 
 ### GitHub branches showing dev and main
-![Git branches in GitHub view](images/github_branches.png)
+![Git branches in GitHub view](images/branches.jpg)
 
 ### Commit and merge history showing Version 1 and Version 2
 ![Git history showing version releases](images/git_history.png)
