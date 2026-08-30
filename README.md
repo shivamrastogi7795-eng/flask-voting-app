@@ -78,7 +78,7 @@ main ------------------------------> stable release
 ## Screenshots
 
 ### App running in the browser
-![Flask app running locally](images/app_running.png)
+![Flask app running locally](images/flask-app-running-locally.jpg)
 
 ### GitHub branches showing dev and main
 ![Git branches in GitHub view](images/github_branches.png)
