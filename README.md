@@ -83,9 +83,6 @@ main ------------------------------> stable release
 ### GitHub branches showing dev and main
 ![Git branches in GitHub view](images/branches.jpg)
 
-### Commit and merge history showing Version 1 and Version 2
-![Git history showing version releases](images/git_history.png)
-
 ## Notes
 
 This assignment demonstrates two things at the same time: building a small Flask web service and managing a real software release workflow with Git. The result is a clear, reusable example of endpoint design, API responses, and branch-based version control.
